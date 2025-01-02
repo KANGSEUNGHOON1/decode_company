@@ -148,6 +148,7 @@ section .inner .section-wrap {
   width: 100%;
   height: 120px;
   overflow: hidden;
+  margin-bottom: 20px;
 }
 .section-wrap article .pic img {
   width: 100%;
